@@ -39,7 +39,7 @@ This project is a classic Pong game developed using **Raylib** and written in **
 1. Clone this repository:
    ```bash
    git clone https://github.com/AlsDei/PongGame.git
-   cd your-repository
+   cd PongGame
    ```
 2. Compile and run locally:  
    - **For desktop:**
