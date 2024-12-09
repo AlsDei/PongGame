@@ -31,9 +31,10 @@ This project is a classic Pong game developed using **Raylib** and written in **
 ### **Setup and Installation**
 
 #### **1. Prerequisites**
-- Install **Raylib** (latest version).  
-- Install **Emscripten** for WebAssembly support.  
-- A code editor (e.g., VS Code) with C++ support.  
+- Install [**Raylib**](https://www.raylib.com/) (latest version).  
+- Install [**Emscripten**](https://emscripten.org/) for WebAssembly support.  
+- A code editor (e.g., [VS Code](https://code.visualstudio.com/)) with C++ support.  
+
 
 #### **2. Local Setup**
 1. Clone this repository:
