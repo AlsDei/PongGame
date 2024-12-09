@@ -113,4 +113,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Once pasted, replace **your-username** and **your-repository** with your GitHub username and the name of your repository. Let me know if you need further customization! 😊
