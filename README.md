@@ -62,7 +62,7 @@ This project is a classic Pong game developed using **Raylib** and written in **
 - **Objective:** Use your paddle to bounce the ball and score points against your opponent.  
 - **Controls:**  
   - **Player 1:** `W` (up), `S` (down)  
-  - **Player 2:** `Arrow Up`, `Arrow Down`  
+  - **Player 2:** `I` (up), `K` (down)  
 - Win by scoring the target number of points first.  
 
 ---
